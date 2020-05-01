@@ -1,0 +1,11 @@
+Administrators:
+	- admin admin
+
+Managers:
+	- manager manager
+	- kevin	kevin
+
+Pharmacists:
+	- pharm pharm
+	- albert albert
+	- red readhead
